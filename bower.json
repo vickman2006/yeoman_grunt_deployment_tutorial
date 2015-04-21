@@ -1,0 +1,7 @@
+{
+  "name": "yeoman-grunt-deployment-tutorial",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
